@@ -1,0 +1,18 @@
+body{
+    font-family: sans-serif;
+    margin: 0 50px;
+}
+#container{
+    display:flex;
+    gap: 50px;
+}
+#message{
+color:red
+}
+#display{
+    display:block;
+}
+#result{
+    display: inline-block;
+    min-width: 200px;
+}
